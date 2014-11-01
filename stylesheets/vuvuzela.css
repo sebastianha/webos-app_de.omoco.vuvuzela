@@ -1,0 +1,28 @@
+/* TODO: put your application-specific CSS here */
+
+
+div#Container {
+	position:fixed;
+	top:0px;
+	left:0px;
+	bottom:0px;
+	width:320px;
+	/* height:480px; */
+	background-color:#000;
+	z-index:-1;
+}
+
+
+palm-button .buttonfloat {
+	float:left;
+}     
+
+#musicbutton {
+	width:320px;
+	height:480px;
+	position:fixed;
+	top:0px;
+	left:0px;
+    margin:0px auto;
+    background-image:url("../images/vuvuzela.png");
+}

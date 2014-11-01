@@ -1,0 +1,9 @@
+{
+	"id": "de.omoco.vuvuzela",
+	"version": "2.2.0",
+	"vendor": "vuvuzela.omoco.de",
+	"type": "web",
+	"main": "index.html",
+	"title": "Vuvuzela",
+	"icon": "icon.png"
+}
