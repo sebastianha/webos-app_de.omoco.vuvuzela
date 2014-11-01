@@ -1,5 +1,5 @@
-webOS App – Global Shoutbox (de.omoco.shoutbox)
-===============================================
+webOS App – Vuvuzela (de.omoco.vuvuzela)
+========================================
 
 - Package ID : 	 de.omoco.vuvuzela 
 - Version : 	 2.2.0 
